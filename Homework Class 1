@@ -1,0 +1,16 @@
+x = 2
+y = 3
+#sum
+print(x + y)
+#difference
+print(x - y)
+#product
+print(xy)
+
+
+array = [1,2,3,4]
+for i in range(4):
+  if array[i]/2 = 0:
+    print("even")
+  if array[i]/2% = 1:
+    print("odd")
